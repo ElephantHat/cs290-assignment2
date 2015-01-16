@@ -18,15 +18,18 @@ dt:hover + dd {background: purple;}
 
 /* divs */
 .outer-content {
-	margin-top: 20px;
+	margin: 20px 0px;
+	padding: 20px;
 	width: 75%;
 	background: pink;
 }
 
 .inner-content {
-	background: blue;
+	background: #33f;
+	color: #fff;
 	width: 75%;
 	margin: auto;
+	text-align: center;
 }
 
 /* float pic */
